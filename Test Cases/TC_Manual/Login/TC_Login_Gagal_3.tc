@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case Login Gagal 3 - Username Dan Password Kosong</description>
+   <name>TC_Login_Gagal_3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5889f808-a1a2-47a7-917a-a9bd2b3b8795</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f59cb3ec-f3c9-4c0a-8b99-caae520386e1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46da04e3-3b69-46e9-b81a-84a0068d76e3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'zikri@gmail.com'</defaultValue>
+      <description></description>
+      <id>f59cb3ec-f3c9-4c0a-8b99-caae520386e1</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>46da04e3-3b69-46e9-b81a-84a0068d76e3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

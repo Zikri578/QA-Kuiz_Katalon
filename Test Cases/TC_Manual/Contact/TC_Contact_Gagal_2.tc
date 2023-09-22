@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case Contact Gagal 2 - Name Kosong</description>
+   <name>TC_Contact_Gagal_2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a38161f0-950c-496a-9654-df6714868dac</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0be2eec5-cb77-446c-a823-f11308f01b95</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8e2055e-a0d0-48a9-a7bc-822bdf0808fa</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>10ccbf44-490c-46e7-ad30-7665873f2ada</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'helpdesk@gmail.com'</defaultValue>
+      <description></description>
+      <id>0be2eec5-cb77-446c-a823-f11308f01b95</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Atta Halilintar'</defaultValue>
+      <description></description>
+      <id>d8e2055e-a0d0-48a9-a7bc-822bdf0808fa</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ada barang baru?'</defaultValue>
+      <description></description>
+      <id>10ccbf44-490c-46e7-ad30-7665873f2ada</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>
